@@ -1,5 +1,7 @@
+<h1>Hi There, I'm Najwan Octavian Gerrard<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+%5BNajwan+Octavian+Gerrard%5D;DevOps+Engineer+%7C+Cloud+Architect;Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Cloud+Architect;Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
 I am a person with interests and skills in Cloud Computing, DevOps, and Python Programming, as well as experience in data analysis using Python. I have a passion for developing efficient and scalable technology solutions, as well as the ability to analyze data to generate valuable insights. I am always eager to learn the latest technologies and apply them in challenging projects.
@@ -14,27 +16,64 @@ I am a person with interests and skills in Cloud Computing, DevOps, and Python P
 
 ### 🛠️ Technical Skills
 
-**Programming Languages**
+#### **Programming & Scripting**
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> |
+<img title="Bash" alt="Bash" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"> |
+<img title="YAML" alt="YAML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg"> |
+<img title="Linux" alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+|--|--|--|--|
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+#### **Cloud & Orchestration**
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"> |
+<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"> |
+<img title="OpenStack" alt="OpenStack" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/openstack/openstack.png"> |
+<img title="Ceph" alt="Ceph" width="40px" src="https://raw.githubusercontent.com/ceph/ceph/master/src/ceph-logo.png"> |
+<img title="Traefik" alt="Traefik" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/traefik/traefik-original.svg">
 |--|--|--|--|--|
 
-**Libraries and Frameworks**
-
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+#### **Automation & CI/CD**
+<img title="Ansible" alt="Ansible" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png"> |
+<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"> |
+<img title="Jenkins" alt="Jenkins" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png"> |
+<img title="GitLab CI" alt="GitLab CI" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"> |
+<img title="AWS CloudFormation" alt="CloudFormation" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws-cloudformation/aws-cloudformation.png">
 |--|--|--|--|--|
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
 
-**Infrastructure**
+#### **Containerization**
+<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+|--|
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|
+#### **Monitoring & Logging**
+<img title="Prometheus" alt="Prometheus" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/prometheus/prometheus.png"> |
+<img title="Grafana" alt="Grafana" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png"> |
+<img title="ELK" alt="ELK Stack" width="40px" src="https://raw.githubusercontent.com/elastic/elastic.github.io/master/images/elastic-logo.svg">
 |--|--|--|
 
-**Databases**
+#### **Networking**
+<img title="Networking" alt="Routing/Switching" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/network/network-original.svg"> |
+<img title="Firewall" alt="Firewalls" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firewall/firewall-original.svg">
+|--|--|
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
-|--|--|--|
+#### **Databases**
+<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> |
+<img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> |
+<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"> |
+<img title="AWS RDS" alt="AWS RDS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/amazon-rds/amazon-rds.png"> |
+<img title="DynamoDB" alt="DynamoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/amazon-dynamodb/amazon-dynamodb.png">
+|--|--|--|--|--|
 
+#### **IoT**
+<img title="Arduino" alt="Arduino" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> |
+<img title="Sensors" alt="Sensors" width="40px" src="https://cdn-icons-png.flaticon.com/512/3093/3093028.png">
+|--|--|
+
+#### **Data Science & Analytics**
+<img title="Pandas" alt="Pandas" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"> |
+<img title="NumPy" alt="NumPy" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"> |
+<img title="Matplotlib" alt="Matplotlib" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/matplotlib/matplotlib.png"> |
+<img title="Seaborn" alt="Seaborn" width="40px" src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg"> |
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+|--|--|--|--|--|
 **Tools**
 
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
