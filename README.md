@@ -1,25 +1,8 @@
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-# 👋 Hi, I'm Najwan Octvian
-
-**DevOps Engineer | Cloud & Automation Specialist | Data Enthusiast**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+%5BNajwan+Octavian+Gerrard%5D;DevOps+Engineer+%7C+Cloud+Architect;Data+Science+Enthusiast" alt="Typing SVG" />
+</div>
 
 I am a person with interests and skills in Cloud Computing, DevOps, and Python Programming, as well as experience in data analysis using Python. I have a passion for developing efficient and scalable technology solutions, as well as the ability to analyze data to generate valuable insights. I am always eager to learn the latest technologies and apply them in challenging projects.
-
-
----
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+%5BYour+Name%5D;DevOps+Engineer+%7C+Cloud+Architect;Data+Science+Enthusiast" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/🌐%20Open%20to%20Collaborate-brightgreen" alt="Open to Collaborate" />
