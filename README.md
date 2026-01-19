@@ -8,7 +8,7 @@ I am a passionate technologist with expertise in Cloud Computing, DevOps, and Py
 
 <div align="center">
   <img src="https://img.shields.io/badge/🌐%20Open%20to%20Collaborate-brightgreen" alt="Open to Collaborate" />
-  <img src="https://img.shields.io/badge/💼%20Full--Time%20DevOps-blue" alt="Full-Time DevOps" />
+  <img src="https://img.shields.io/badge/💼%20Full--Time%20DevOps-blue" alt="DevOps" />
   <img src="https://img.shields.io/badge/🚀%20Building%20Scalable%20Infra-purple" alt="Building Scalable Infra" />
   <img src="https://img.shields.io/badge/🔐%20Cybersecurity%20Focused-red" alt="Cybersecurity Focused" />
   <img src="https://img.shields.io/badge/🤖%20AI%20Enthusiast-orange" alt="AI Enthusiast" />
@@ -109,18 +109,6 @@ I am a passionate technologist with expertise in Cloud Computing, DevOps, and Py
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vianAja&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianAja&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vianAja&theme=radical" alt="Streak Stats" />
-</div>
-
----
-
-## 📊 Visitor Count
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vianAja/count.svg" alt="Profile Views" />
 </div>
 
 ---
